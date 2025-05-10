@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png" srcset="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png 1x, https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand@2x.png 2x" alt="" height="56" width="52">
+<img src="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png" srcset="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png 1x, https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand@2x.png 2x" alt="" height="56" width="58">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;Hi+👋,+I'm+Ahsan;Welcome+to+my+Profile!)](https://git.io/typing-svg)
 </div>
