@@ -1,6 +1,6 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;Hi+👋,+I'm+Ahsan;Welcome+to+my+Profile!)](https://git.io/typing-svg)
-</div>
+
+<h1 align="center">Hi 👋, I'm Ahsan</h1>
 <h3 align="center">A passionate mobile application developer</h3>
 
 - 🔭 I’m currently working with **Dropslab Technology.**
