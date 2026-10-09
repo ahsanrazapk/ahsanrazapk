@@ -1,32 +1,66 @@
-<div align="center">
-<img src="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png" srcset="https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand.png 1x, https://a.slack-edge.com/70d4c04/marketing/img/homepage/signed-in-users/waving-hand@2x.png 2x" alt="" height="56" width="58">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&center=true&vCenter=true&width=435&height=24&lines=Hello+World!;Hi+👋,+I'm+Ahsan;Welcome+to+my+Profile!)](https://git.io/typing-svg)
-</div>
-
-<h1 align="center">Hi 👋, I'm Ahsan</h1>
-<h3 align="center">A passionate mobile application developer</h3>
-
-- 🔭 I’m currently working with **Dropslab Technology.**
-
-- 🌱 I’m currently learning **Machine Learning | Python**
-
-- 📫 How to reach me **ahsanrazapk92@gmail.com and [https://www.linkedin.com/in/ahsan-raza](https://www.linkedin.com/in/ahsan-raza-8946371a6/)**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oAVpyV5SwdiC_9CoQhOgEF2st5o9C7nV/view?usp=sharing](https://drive.google.com/file/d/1NDOWsRSvwDNq4oTQ_KXUvDP7NfWwgdDN/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ahsan-raza-8946371a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan-raza-8946371a6" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ahsanrazapk.github.io"><img src="https://ahsanrazapk.github.io/assets/img/og.jpg" alt="Ahsan Raza · Senior Flutter &amp; Android Developer" width="100%"></a>
 </p>
 
+<h2 align="center">Hi, I'm Ahsan 👋</h2>
+<p align="center"><b>Senior Flutter &amp; Android Developer</b> · 10 years building mobile apps with real-time video calls, secure chat and AI voice agents, for phones, tablets and smart glasses.</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanrazapk&show_icons=true&locale=en&layout=compact" alt="ahsanrazapk" /></p>
+<p align="center">
+  <a href="https://ahsanrazapk.github.io"><img src="https://img.shields.io/badge/Portfolio-ahsanrazapk.github.io-5B8CFF?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.upwork.com/freelancers/~0173cbc2b8286a21ee"><img src="https://img.shields.io/badge/Hire_me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
+  <a href="https://www.linkedin.com/in/ahsan-raza-8946371a6"><img src="https://img.shields.io/badge/LinkedIn-Ahsan_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ahsanrazapk92@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanrazapk92%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+## What I do
 
- # 💻 Tech Stack
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/jetpack_compose-%23ED8B00.svg?style=for-the-badge&logo=jetpack-compose) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 📱 **Mobile apps that ship:** Flutter, plus native iOS (Swift) and Android (Kotlin/Java) since 2016
+- 📞 **Video calls &amp; screen sharing:** WebRTC, Agora, LiveKit, Matrix VoIP, CallKit, Picture-in-Picture
+- 🎙️ **AI voice agents:** speech-to-text → LLM → text-to-speech, on LiveKit Agents or my own WebRTC pipeline
+- 🥽 **Smart glasses:** hands-free apps for RealWear, Moziware and ARSpectra headsets
+- 🔐 **Secure chat:** end-to-end encrypted messaging on the Matrix protocol
+- 👥 **Team lead &amp; Scrum Master** of a remote mobile team at Dropslab Technologies (Germany)
 
- # ⚙️ Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Featured work
 
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/field-service-remote-expert-app"><img src="https://ahsanrazapk.github.io/assets/img/work/field-service-app.webp" alt="Field Service &amp; Remote Expert App" width="100%"></a><br><b>Field Service &amp; Remote Expert App</b><br><sub>Flutter, Matrix, WebRTC, RealWear</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/ai-voice-agent-flight-search"><img src="https://ahsanrazapk.github.io/assets/img/work/flight-voice-agent.webp" alt="AI Voice Agent for Flight Search" width="100%"></a><br><b>AI Voice Agent for Flight Search</b><br><sub>LiveKit Agents + Flutter</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/lawyer-consultation-app"><img src="https://ahsanrazapk.github.io/assets/img/work/lawyer-consultation-app.webp" alt="Lawyer Consultation App" width="100%"></a><br><b>Lawyer Consultation App</b><br><sub>Booking, Payments, Chat &amp; Voice Calls</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/realtime-voice-agent-webrtc"><img src="https://ahsanrazapk.github.io/assets/img/work/webrtc-voice-agent.webp" alt="Real-Time AI Voice Agent over WebRTC" width="100%"></a><br><b>Real-Time AI Voice Agent over WebRTC</b><br><sub>Flutter, FastAPI, Groq</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/fashion-sales-ai-tryon-app"><img src="https://ahsanrazapk.github.io/assets/img/work/fashion-tryon-app.webp" alt="Fashion Sales &amp; AI Virtual Try-On App" width="100%"></a><br><b>Fashion Sales &amp; AI Virtual Try-On App</b><br><sub>Flutter (iOS &amp; Android)</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/video-first-dating-app"><img src="https://ahsanrazapk.github.io/assets/img/work/video-dating-app.webp" alt="Video-First Dating App" width="100%"></a><br><b>Video-First Dating App</b><br><sub>Video Profiles, Calls &amp; Live Streaming</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/offline-urdu-voice-agents"><img src="https://ahsanrazapk.github.io/assets/img/work/offline-urdu-voice-agents.webp" alt="Offline &amp; Urdu AI Voice Agents" width="100%"></a><br><b>Offline &amp; Urdu AI Voice Agents</b><br><sub>Whisper, Ollama, Piper, Orpheus</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/video-classifieds-auction-app"><img src="https://ahsanrazapk.github.io/assets/img/work/video-classifieds-auction-app.webp" alt="Video Classifieds &amp; Auction Marketplace App" width="100%"></a><br><b>Video Classifieds &amp; Auction Marketplace App</b><br><sub>Flutter</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/autoparts-pro-inventory-pos"><img src="https://ahsanrazapk.github.io/assets/img/work/autoparts-pro.webp" alt="AutoParts Pro" width="100%"></a><br><b>AutoParts Pro</b><br><sub>Multi-Shop Inventory &amp; POS Web App (React, Firebase)</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/ahsanrazapk/wedding-memory-box-website"><img src="https://ahsanrazapk.github.io/assets/img/work/wedding-memory-box.webp" alt="Wedding Photo Box Designer" width="100%"></a><br><b>Wedding Photo Box Designer</b><br><sub>React, Fabric.js, Express, PostgreSQL</sub></td>
+</tr>
+</table>
+
+<sub>Client apps are shown without their names. Each repository holds the project poster and its HTML/CSS source; the app code stays private.</sub>
+
+## Tech stack
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC"> <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square" alt="LiveKit"> <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square" alt="Agora"> <img src="https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white" alt="Matrix"> <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+## Experience
+
+| When | Role | Company |
+|---|---|---|
+| 2022 – now | Senior Mobile Applications Developer | Dropslab Technologies (remote, Germany) |
+| 2023 – 2026 | Flutter Developer | Tech Consultivo |
+| 2020 – 2023 | Senior iOS Developer | Pixelpk Technologies |
+| 2019 – 2020 | Senior Mobile App Developer | Teclipse Sol |
+| 2017 – 2019 | iOS Developer (Swift) | Connect U |
+| 2016 – 2017 | Android/iOS Developer | Smart Mirror |
+
+<p align="center"><sub>Open to new projects · Lahore, Pakistan (UTC+5) · Remote, worldwide</sub></p>
