@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ahsanrazapk.github.io"><img src="https://img.shields.io/badge/Portfolio-ahsanrazapk.github.io-5B8CFF?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.upwork.com/freelancers/~0173cbc2b8286a21ee"><img src="https://img.shields.io/badge/Hire_me-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork"></a>
-  <a href="https://www.linkedin.com/in/ahsan-raza-8946371a6"><img src="https://img.shields.io/badge/LinkedIn-Ahsan_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ahsanrazapk"><img src="https://img.shields.io/badge/LinkedIn-Ahsan_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ahsanrazapk92@gmail.com"><img src="https://img.shields.io/badge/Email-ahsanrazapk92%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
