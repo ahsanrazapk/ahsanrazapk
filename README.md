@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ahsanrazapk.github.io"><img src="https://ahsanrazapk.github.io/assets/img/og.jpg" alt="Ahsan Raza · Senior Flutter &amp; Android Developer" width="100%"></a>
+  <a href="https://ahsanrazapk.github.io"><img src="https://ahsanrazapk.github.io/assets/img/og.jpg?v=2" alt="Ahsan Raza · Senior Flutter &amp; Android Developer" width="100%"></a>
 </p>
 
 <h2 align="center">Hi, I'm Ahsan 👋</h2>
