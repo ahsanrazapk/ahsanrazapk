@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi, I'm Ahsan 👋</h2>
-<p align="center"><b>Senior Flutter &amp; Android Developer</b> · 10 years building mobile apps with real-time video calls, secure chat and AI voice agents, for phones, tablets and smart glasses.</p>
+<p align="center"><b>Senior Flutter &amp; Android Developer</b> · 9+ years building mobile apps with real-time video calls, secure chat and AI voice agents, for phones, tablets and smart glasses.</p>
 
 <p align="center">
   <a href="https://ahsanrazapk.github.io"><img src="https://img.shields.io/badge/Portfolio-ahsanrazapk.github.io-5B8CFF?style=for-the-badge" alt="Portfolio"></a>
@@ -14,7 +14,7 @@
 
 ## What I do
 
-- 📱 **Mobile apps that ship:** Flutter, plus native iOS (Swift) and Android (Kotlin/Java) since 2016
+- 📱 **Mobile apps that ship:** Flutter, plus native iOS (Swift) and Android (Kotlin/Java) since 2017
 - 📞 **Video calls &amp; screen sharing:** WebRTC, Agora, LiveKit, Matrix VoIP, CallKit, Picture-in-Picture
 - 🎙️ **AI voice agents:** speech-to-text → LLM → text-to-speech, on LiveKit Agents or my own WebRTC pipeline
 - 🥽 **Smart glasses:** hands-free apps for RealWear, Moziware and ARSpectra headsets
@@ -57,10 +57,10 @@
 | When | Role | Company |
 |---|---|---|
 | 2022 – now | Senior Mobile Applications Developer | Dropslab Technologies (remote, Germany) |
-| 2023 – 2026 | Flutter Developer | Tech Consultivo |
-| 2020 – 2023 | Senior iOS Developer | Pixelpk Technologies |
-| 2019 – 2020 | Senior Mobile App Developer | Teclipse Sol |
-| 2017 – 2019 | iOS Developer (Swift) | Connect U |
-| 2016 – 2017 | Android/iOS Developer | Smart Mirror |
+| 2023 – 2026 | Senior Mobile Application Engineer | Tech Consultivo |
+| 2022 – 2023 | Senior Flutter Developer · Team Lead | Pixelpk Technologies |
+| 2020 – 2022 | Senior Mobile Application Developer | Teclipse Sol |
+| 2018 – 2019 | Mobile Application Developer | Connect U |
+| 2017 – 2018 | Mobile Application Developer | Smart Mirror |
 
 <p align="center"><sub>Open to new projects · Lahore, Pakistan (UTC+5) · Remote, worldwide</sub></p>
